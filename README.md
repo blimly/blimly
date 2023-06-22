@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hello, wildcats
+![textanim-X9yQN](https://github.com/blimly/blimly/assets/15237212/7955904c-2d2d-4493-bab2-b601a444208e)
 
-<!--
-**blimly/blimly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I go by many names. Some call me the _ThinkMart™_, the ThinkPad enthusiast.
+Others refer to me as the _serverite võrgutaja_, but my hacker name is Blimly Penumbra.
 
-Here are some ideas to get you started:
+I'm a software engineer currently working at a company, in Estonia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main interests include:
+- Sustainability science
+- Humane interface design
+- Computational psychology
+
+Feel free to check out my website: [https://www.martkaasik.net](https://www.martkaasik.net)
